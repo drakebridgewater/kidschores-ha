@@ -1,3 +1,17 @@
+> [!IMPORTANT]
+> **⚠️ ACTIVE DEVELOPMENT HAS MOVED TO CHOREOPS**
+>
+> `KidsChores` has officially evolved into a new, expanded integration called **[ChoreOps](https://github.com/ccpk1/choreops)**.
+> 
+> Based on incredible feedback from this community, the backend has been completely re-architected to Home Assistant Platinum standards to support *everyone* in the household (not just kids!), along with an entirely new "Over-The-Air" dashboard system.
+> 
+> **Please migrate to ChoreOps to access all new features and continued support.**
+> Upgrading is safe and easy: ChoreOps includes a built-in migration tool and runs safely in parallel with KidsChores. You can set it up, migrate your data, and ensure you are completely happy before removing your old configuration.
+> 
+> 👉 **[Get started with ChoreOps here!](https://github.com/ccpk1/choreops)**
+
+---
+
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 ![GitHub Release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/ad-ha/kidschores-ha?include_prereleases)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ad-ha/kidschores-ha/latest/total)
